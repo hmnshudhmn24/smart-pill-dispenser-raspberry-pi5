@@ -1,6 +1,8 @@
 # 💊 Smart Pill Dispenser (Raspberry Pi)
 
-A Raspberry Pi-powered **automated pill dispenser and medication reminder system** to ensure you never miss a dose!
+The Smart Pill Dispenser is an intelligent, Raspberry Pi–powered device designed to help users take their medications on time, every time. With a combination of automation, alerts, and logging, it is especially useful for elderly individuals, patients with chronic conditions, or anyone who needs a little help remembering their daily doses.
+
+This dispenser uses a real-time clock (RTC) to schedule medication times, servos to release pills from separate compartments, and LEDs, buzzers, or an LCD for user alerts. A log of each dose taken is saved locally for health tracking or caregiver review.
 
 ## 🧠 Features
 
