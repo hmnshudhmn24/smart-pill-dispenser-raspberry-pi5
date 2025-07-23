@@ -51,7 +51,3 @@ Stop anytime with `Ctrl + C`.
 - Real-time clock (RTC) module support
 - Mobile app integration
 - Logs and analytics
-
----
-
-Built for caring for loved ones and making life easier 💙
